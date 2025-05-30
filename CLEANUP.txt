@@ -1,0 +1,7 @@
+Files to remove for deployment:
+- app_svm.py
+- test_and_filter_images.py
+- test_models.py
+- pytourch.readme
+
+These are not needed for the live app and can be deleted before pushing to GitHub or deploying.

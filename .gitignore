@@ -1,0 +1,11 @@
+# Ignore unnecessary files for deployment
+app_svm.py
+test_and_filter_images.py
+test_models.py
+pytourch.readme
+*.ipynb
+*.pkl
+*.csv
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+streamlit
+numpy
+opencv-python
+tensorflow
+keras
+torch
+timm
+torchvision
